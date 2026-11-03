@@ -1,0 +1,15 @@
+audioop-lts==0.2.2
+certifi==2026.5.20
+cffi==2.0.0
+charset-normalizer==3.4.7
+idna==3.18
+numpy==2.4.6
+pycparser==3.0
+requests==2.34.2
+sounddevice==0.5.5
+soundfile==0.14.0
+SpeechRecognition==3.16.1
+standard-aifc==3.13.0
+standard-chunk==3.13.0
+typing_extensions==4.15.0
+urllib3==2.7.0

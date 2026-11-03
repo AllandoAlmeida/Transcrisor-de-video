@@ -1,0 +1,15 @@
+venv
+audio_extraído
+transcrição
+video_transcrição
+
+# Arquivos locais de mídia e pacotes
+*.wav
+*.mp4
+*.zip
+
+# Ambiente Python e arquivos privados
+.venv/
+venv/
+__pycache__/
+.env
